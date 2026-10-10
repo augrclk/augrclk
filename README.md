@@ -34,6 +34,8 @@ Yapay zekâ destekli **içerik ve ürün geliştiricisiyim.** Uygulamalar, otoma
 </picture>
 </a>
 
+<br>
+
 <a href="https://github.com/augrclk/AuraAgent-Framework">
 <picture>
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/auraagent-dark-mobile.svg">
@@ -43,6 +45,8 @@ Yapay zekâ destekli **içerik ve ürün geliştiricisiyim.** Uygulamalar, otoma
 </picture>
 </a>
 
+<br>
+
 <a href="https://github.com/augrclk/Esnaf-Kopilot">
 <picture>
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/esnaf-kopilot-dark-mobile.svg">
@@ -51,6 +55,8 @@ Yapay zekâ destekli **içerik ve ürün geliştiricisiyim.** Uygulamalar, otoma
   <img src="assets/esnaf-kopilot-light.svg" width="100%" alt="Esnaf Kopilot — Ürün içeriği ve görselleri için yapay zekâ. AI-assisted product content and imagery.">
 </picture>
 </a>
+
+<br>
 
 
 <details>
