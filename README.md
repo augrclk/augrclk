@@ -8,11 +8,18 @@
 </a>
 
 <p align="center">
-  <a href="https://www.celikugur.dev/"><strong>Portfolyo ↗</strong></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/augrclk/"><strong>LinkedIn ↗</strong></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:augrclk@gmail.com"><strong>Bir merhaba ↗</strong></a>
+  <a href="https://www.celikugur.dev/"><picture>
+    <source media="(max-width: 600px)" srcset="assets/social-portfolio-mobile.svg">
+    <img src="assets/social-portfolio.svg" width="32%" alt="Portfolyo — celikugur.dev">
+  </picture></a>
+  <a href="https://www.linkedin.com/in/augrclk/"><picture>
+    <source media="(max-width: 600px)" srcset="assets/social-linkedin-mobile.svg">
+    <img src="assets/social-linkedin.svg" width="32%" alt="LinkedIn — Deneyim &amp; bağlantılar">
+  </picture></a>
+  <a href="mailto:augrclk@gmail.com"><picture>
+    <source media="(max-width: 600px)" srcset="assets/social-contact-mobile.svg">
+    <img src="assets/social-contact.svg" width="32%" alt="Bir merhaba — E-postayla iletişim">
+  </picture></a>
 </p>
 
 <br>

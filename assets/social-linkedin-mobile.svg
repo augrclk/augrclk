@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="126" viewBox="0 0 180 126" role="img" aria-labelledby="title desc">
+<title id="title">LinkedIn</title><desc id="desc">LinkedIn — Deneyim &amp; bağlantılar. Simge, sitedeki sosyal butonlar gibi sağa yuvarlanır. Bağlantıyı açmak için tıklayın.</desc>
+<!-- LinkedIn glyph: Font Awesome Free, Fonticons, Inc., CC BY 4.0. https://fontawesome.com/license/free -->
+<defs><clipPath id="bounds"><rect x="1" y="1" width="178" height="124" rx="14"/></clipPath></defs>
+<style>
+ .wash,.track,.roll,.copy,.arrow {animation-duration:9s;animation-delay:-2.7s;animation-iteration-count:infinite;animation-timing-function:cubic-bezier(.3,.75,.2,1)}
+ .wash {animation-name:wash;transform-origin:left center}
+ .track {animation-name:track}
+ .roll {animation-name:roll}
+ .copy {animation-name:copy}
+ .arrow {animation-name:arrow}
+ @keyframes wash {0%,18%,62%,100%{transform:scaleX(0)}27%,52%{transform:scaleX(1)}}
+ @keyframes track {0%,18%,62%,100%{transform:translateX(0)}27%,52%{transform:translateX(112px)}}
+ @keyframes roll {0%,18%,62%,100%{transform:rotate(0)}27%,52%{transform:rotate(360deg)}}
+ @keyframes copy {0%,18%,62%,100%{transform:translateX(0)}27%,52%{transform:translateX(0px)}}
+ @keyframes copyFade {0%,18%,27%,52%,62%,100%{opacity:1}20%,25%,54%,60%{opacity:0}}
+ @keyframes arrow {0%,18%,62%,100%{opacity:1;transform:translate(0,0)}25%,54%{opacity:0;transform:translate(10px,-10px)}}
+ @media(prefers-reduced-motion:reduce){.wash,.track,.roll,.copy,.arrow{animation:none!important}.wash{transform:scaleX(0)}}
+</style>
+<rect x="1" y="1" width="178" height="124" rx="14" fill="#304355" stroke="#52677D"/>
+<g clip-path="url(#bounds)">
+ <rect class="wash" x="0" y="0" width="180" height="126" fill="#0A66C2"/>
+ <g transform="translate(34 35)"><g class="track"><circle r="24" fill="#ffffff0a" stroke="#ffffff36"/><g class="roll"><g transform="translate(-16 -18) scale(.0714)"><path fill="#fff" d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></g></g></g></g>
+ <g class="copy" fill="#fff" font-family="'Trebuchet MS',Arial,sans-serif">
+  <text x="16" y="99" font-size="23" font-weight="700" letter-spacing="-.5">LinkedIn</text>
+</g></g></svg>

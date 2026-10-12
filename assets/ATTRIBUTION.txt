@@ -1,0 +1,4 @@
+LinkedIn icon: Font Awesome Free by Fonticons, Inc.
+License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
+Source: https://fontawesome.com/license/free
+The glyph is reused from the public celikugur.dev/assets/brand-icons.svg asset; color, scale and animation were adapted for the profile.
