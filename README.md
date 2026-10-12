@@ -3,7 +3,7 @@
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/hero-dark-mobile.svg">
   <source media="(max-width: 600px)" srcset="assets/hero-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img src="assets/hero-light.svg" width="100%" alt="Uğur Çelik — Yarat. Oyna. Öğren. AI, uygulama ve otomasyon.">
+  <img src="assets/hero-light.svg" width="100%" alt="Uğur Çelik — Yapay Zeka Destekli İçerik Ve Ürün Geliştiricisi - Yazılım Mühendisliği Öğrencisi. Üret. Oyna. Öğren.">
 </picture>
 </a>
 
@@ -17,20 +17,20 @@
 
 <br>
 
-Yapay zekâ destekli **içerik ve ürün geliştiricisiyim.** Uygulamalar, otomasyonlar, oyunlar ve öğrenme deneyimleri üretiyorum. Burası, bu fikirlerin kodla buluştuğu yer.
+<p align="center"><strong>Yapay Zeka Destekli İçerik Ve Ürün Geliştiricisi - Yazılım Mühendisliği Öğrencisi.</strong></p>
 
-<sub>I build apps, automation and creative experiments with AI. This is where those ideas turn into code.</sub>
+<p align="center"><sub>AI-assisted Content &amp; Product Developer · Software Engineering Student</sub></p>
 
-<br><br>
+<br>
 
-### Seçili projeler · Selected work
+### Projeler · Selected work
 
 <a href="https://github.com/augrclk/menubench">
 <picture>
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/menubench-dark-mobile.svg">
   <source media="(max-width: 600px)" srcset="assets/menubench-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/menubench-dark.svg">
-  <img src="assets/menubench-light.svg" width="100%" alt="Menubench — Günlük Mac araçları, tek bir menü çubuğunda. A calm, local-first workbench for your Mac.">
+  <img src="assets/menubench-light.svg" width="100%" alt="Menu Bench — Günlük Mac araçları, tek bir menü çubuğunda. A calm, local-first workbench for your Mac.">
 </picture>
 </a>
 
@@ -58,31 +58,22 @@ Yapay zekâ destekli **içerik ve ürün geliştiricisiyim.** Uygulamalar, otoma
 
 <br>
 
-
 <details>
 <summary><strong>Diğer deneyler · More experiments</strong></summary>
 
 <br>
 
-- **[GuessAI](https://github.com/augrclk/GuessAI)** — Karar ağaçlarıyla aklındaki nesneyi tahmin eden bir oyun. / An object-guessing game built with decision trees.
-- **[Manga Script](https://github.com/augrclk/Manga-Script)** — Görsel, ses ve videoyu bir araya getiren manga üretim akışı. / A workflow connecting manga images, speech and video.
-- **[Hikmet Atölyesi](https://github.com/augrclk/HikmetAtolyesi)** — Sosyalfest 2026 için geliştirilmiş bir proje. / A project developed for Sosyalfest 2026.
+- **[GuessAI](https://github.com/augrclk/GuessAI)** — Karar ağaçlarıyla aklındaki nesneyi tahmin eden bir oyun.
+- **[Manga Script](https://github.com/augrclk/Manga-Script)** — Görsel, ses ve videoyu bir araya getiren manga üretim akışı.
+- **[Hikmet Atölyesi](https://github.com/augrclk/HikmetAtolyesi)** — Sosyalfest 2026 için geliştirilmiş bir proje.
 
 </details>
-
-<br>
-
-### Kullandığım araçlar · Toolkit
-
-**Swift / SwiftUI** &nbsp;·&nbsp; **Python / FastAPI** &nbsp;·&nbsp; **JavaScript**<br>
-<sub>Gemini · Firebase · GitHub · AI agent workflows</sub>
 
 <br>
 
 ---
 
 <p align="center">
-  <strong>Biraz merak, biraz deneme.</strong><br>
-  <sub>A little curiosity. A little experimentation.</sub><br><br>
-  <a href="https://www.celikugur.dev/#lab">Dijital oyun alanımı keşfet ↗</a>
+  <strong>Üret. Oyna. Öğren.</strong><br><br>
+  <a href="https://www.celikugur.dev/#lab">Diğer çalışmalarımı keşfet ↗</a>
 </p>
